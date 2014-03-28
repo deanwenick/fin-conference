@@ -1,0 +1,12 @@
+/*
+Theme Name: Fin Conference
+Theme URI: http://wenick-web.com
+Description: A custom theme for Finovate and FinDEVr conferences, built from Starkers theme by http://nathanstaines.com
+Version: 0.1
+Author: Dean Wenick
+Author URI: http://wenick-web.com;
+Tags: starkers, html5, financial, conferences, custom
+*/
+
+@import "css/reset.css";
+@import "css/layout.css";
